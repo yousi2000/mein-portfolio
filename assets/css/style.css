@@ -592,6 +592,7 @@ a{
         width: 100%;
         height: 100%;
     }
+    
     embed {
         width: 80%;  /* Largeur fixe pour chaque PDF */
       height: 70%;
@@ -640,6 +641,10 @@ a{
        
         
         }
+        .pdf-motivation{
+            height: 50%;
+        }
+        
         .cer{
         padding: 4%;
         display: flex;
