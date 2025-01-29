@@ -593,11 +593,17 @@ a{
     }
     embed {
         width: 80%;  /* Largeur fixe pour chaque PDF */
-        height: 400px;
         margin-bottom: 8%;  /* Espace entre les PDF */
        
         
         }
+        embed .pdf-e{
+            width: 80%;  /* Largeur fixe pour chaque PDF */
+            height: 1500px;
+            margin-bottom: 8%;  /* Espace entre les PDF */
+           
+            
+            }
         .cer{
         padding: 2%;
         display: flex;
