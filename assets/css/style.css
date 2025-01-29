@@ -23,6 +23,7 @@
 }
 embed {
     width: 70%;  /* Largeur fixe pour chaque PDF */
+    height: 900px;
     margin-bottom: 8%;  /* Espace entre les PDF */
    
     
@@ -604,6 +605,7 @@ a{
     }
     embed {
         width: 80%;  /* Largeur fixe pour chaque PDF */
+      
         margin-bottom: 8%;  /* Espace entre les PDF */
        
         
@@ -644,6 +646,7 @@ a{
     }
     embed {
         width: 80%;  /* Largeur fixe pour chaque PDF */
+        height: 70%;
         margin-bottom: 8%;  /* Espace entre les PDF */
        
         
@@ -792,6 +795,7 @@ div .colfind{
 embed {
     
     width: 80%;  /* Largeur fixe pour chaque PDF */
+    height: 70%;
     margin-bottom: 8%;  /* Espace entre les PDF */
    
     
