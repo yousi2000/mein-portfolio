@@ -35,6 +35,11 @@ embed {
        
         
         }
+        embed .pdf-motivation{
+            width: 70%;  /* Largeur fixe pour chaque PDF */
+            height: 1400px;
+            margin-bottom: 8%; 
+        }
 .projekts{
         padding: 3%;
         width: 70%;
