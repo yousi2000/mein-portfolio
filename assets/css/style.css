@@ -23,7 +23,6 @@
 }
 embed {
     width: 70%;  /* Largeur fixe pour chaque PDF */
-    height: 900px;
     margin-bottom: 8%;  /* Espace entre les PDF */
    
     
