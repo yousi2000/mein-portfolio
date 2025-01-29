@@ -28,18 +28,7 @@ embed {
    
     
     }
-    .pdf-e{
-        width: 70%;  /* Largeur fixe pour chaque PDF */
-        height: 1400px;
-        margin-bottom: 8%;  /* Espace entre les PDF */
-       
-        
-        }
-        .pdf-motivation{
-            width: 70%;  /* Largeur fixe pour chaque PDF */
-            height: 1100px;
-            margin-bottom: 8%; 
-        }
+  
 .projekts{
         padding: 3%;
         width: 70%;
@@ -605,7 +594,7 @@ a{
     }
     embed {
         width: 80%;  /* Largeur fixe pour chaque PDF */
-      
+      height: 70%;
         margin-bottom: 8%;  /* Espace entre les PDF */
        
         
