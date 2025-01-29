@@ -57,6 +57,7 @@ html{
 }
 embed {
     width: 70%;  /* Largeur fixe pour chaque PDF */
+    height: 1200px;
     margin-bottom: 8%;  /* Espace entre les PDF */
    
     
@@ -592,6 +593,7 @@ a{
     }
     embed {
         width: 80%;  /* Largeur fixe pour chaque PDF */
+        height: 400px;
         margin-bottom: 8%;  /* Espace entre les PDF */
        
         
